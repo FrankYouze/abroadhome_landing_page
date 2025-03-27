@@ -833,9 +833,9 @@ section,
 }
 .about h3{
   /* text-decoration: underline; */
-  font-weight: 600;
+  font-weight: 700;
   transition: .3s;
-  color: #aaaaaa;
+  /* color: #aaaaaa; */
 
 }
 .about_descript{
